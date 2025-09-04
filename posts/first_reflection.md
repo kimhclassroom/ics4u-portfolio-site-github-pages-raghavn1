@@ -1,4 +1,4 @@
-# First Reflection
+# First Reflection - Week of September 8-12, 2025
 What I learned this week (bullets are fine, you may include an image):
 
 - Topic(s):
