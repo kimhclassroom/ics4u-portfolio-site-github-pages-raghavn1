@@ -4,9 +4,9 @@ Welcome to my ICS4UR portfolio. I’ll use this site to post my work and reflect
 ---
 ## Navigation Outline
 
-+-- index.md
-  +-- [Reflection #1](./posts/first_reflection.md)
-  +-- [Reflection #2](./posts/second_reflection.md)
+- index.md
+  - [Reflection #1](./posts/first_reflection.md)
+  - [Reflection #2](./posts/second_reflection.md)
 
 ---
 
