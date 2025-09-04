@@ -6,4 +6,4 @@ What I learned this week (bullets are fine, you may include an image):
 - What I’m proud of:
 - Next steps:
 
-[Home](./index.md)
+[Home](/index.md)
